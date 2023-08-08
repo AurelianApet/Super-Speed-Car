@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: a9d0137bd39afa1419b95b313ea05257
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: <root>
+    100002: <root> 1
+    100004: bone_wheel_BL_rotation
+    100006: bone_wheel_BL_steer
+    100008: bone_wheel_BR_rotation
+    100010: bone_wheel_BR_steer
+    100012: bone_wheel_FL_rotation
+    100014: bone_wheel_FL_steer
+    100016: bone_wheel_FR_rotation
+    100018: bone_wheel_FR_steer
+    100020: chassis
+    100022: chassis 1
+    100024: chassis_bottom_LOD2
+    100026: chassis_bottom_LOD2 1
+    100028: chassis_carbon_fiber_LOD2
+    100030: chassis_carpaint_LOD2
+    100032: chassis_details_LOD2
+    100034: chassis_licenseplate_LOD003
+    100036: chassis_licenseplate_LOD2
+    100038: detach_bumper_B_25
+    100040: detach_bumper_B_25_pivot
+    100042: detach_bumper_B_25_pivot_carpaint_LOD2
+    100044: detach_door_L_25
+    100046: detach_door_L_25_pivot
+    100048: detach_door_L_25_pivot_carpaint_LOD2
+    100050: detach_door_R_25
+    100052: detach_door_R_25_pivot
+    100054: detach_door_R_25_pivot_carpaint_LOD2
+    100056: detach_hood_45
+    100058: detach_hood_45 1
+    100060: detach_hood_45_pivot
+    100062: detach_hood_45_pivot 1
+    100064: detach_hood_45_pivot_carpaint_LOD2
+    100066: detach_hood_45_pivot_carpaint_LOD2 1
+    100068: //RootNode
+    100070: glasses
+    100072: glasses_glass_border_LOD3
+    100074: glasses_glass_windows_LOD3
+    100076: lights_brakes
+    100078: lights_brakes_glows_LOD3
+    100080: Object001
+    100082: Object002
+    100084: Object003
+    100086: WheelBL
+    100088: WheelBL_rims_LOD2
+    100090: WheelBR
+    100092: WheelBR_rims_LOD2
+    100094: WheelFL
+    100096: WheelFL_rims_LOD2
+    100098: WheelFR
+    100100: WheelFR_rims_LOD2
+    100102: Object004
+    400000: <root>
+    400002: <root> 1
+    400004: bone_wheel_BL_rotation
+    400006: bone_wheel_BL_steer
+    400008: bone_wheel_BR_rotation
+    400010: bone_wheel_BR_steer
+    400012: bone_wheel_FL_rotation
+    400014: bone_wheel_FL_steer
+    400016: bone_wheel_FR_rotation
+    400018: bone_wheel_FR_steer
+    400020: chassis
+    400022: chassis 1
+    400024: chassis_bottom_LOD2
+    400026: chassis_bottom_LOD2 1
+    400028: chassis_carbon_fiber_LOD2
+    400030: chassis_carpaint_LOD2
+    400032: chassis_details_LOD2
+    400034: chassis_licenseplate_LOD003
+    400036: chassis_licenseplate_LOD2
+    400038: detach_bumper_B_25
+    400040: detach_bumper_B_25_pivot
+    400042: detach_bumper_B_25_pivot_carpaint_LOD2
+    400044: detach_door_L_25
+    400046: detach_door_L_25_pivot
+    400048: detach_door_L_25_pivot_carpaint_LOD2
+    400050: detach_door_R_25
+    400052: detach_door_R_25_pivot
+    400054: detach_door_R_25_pivot_carpaint_LOD2
+    400056: detach_hood_45
+    400058: detach_hood_45 1
+    400060: detach_hood_45_pivot
+    400062: detach_hood_45_pivot 1
+    400064: detach_hood_45_pivot_carpaint_LOD2
+    400066: detach_hood_45_pivot_carpaint_LOD2 1
+    400068: //RootNode
+    400070: glasses
+    400072: glasses_glass_border_LOD3
+    400074: glasses_glass_windows_LOD3
+    400076: lights_brakes
+    400078: lights_brakes_glows_LOD3
+    400080: Object001
+    400082: Object002
+    400084: Object003
+    400086: WheelBL
+    400088: WheelBL_rims_LOD2
+    400090: WheelBR
+    400092: WheelBR_rims_LOD2
+    400094: WheelFL
+    400096: WheelFL_rims_LOD2
+    400098: WheelFR
+    400100: WheelFR_rims_LOD2
+    400102: Object004
+    2300000: chassis_bottom_LOD2
+    2300002: chassis_bottom_LOD2 1
+    2300004: chassis_carbon_fiber_LOD2
+    2300006: chassis_carpaint_LOD2
+    2300008: chassis_details_LOD2
+    2300010: chassis_licenseplate_LOD003
+    2300012: chassis_licenseplate_LOD2
+    2300014: detach_bumper_B_25_pivot_carpaint_LOD2
+    2300016: detach_door_L_25_pivot_carpaint_LOD2
+    2300018: detach_door_R_25_pivot_carpaint_LOD2
+    2300020: detach_hood_45_pivot_carpaint_LOD2
+    2300022: detach_hood_45_pivot_carpaint_LOD2 1
+    2300024: glasses_glass_border_LOD3
+    2300026: glasses_glass_windows_LOD3
+    2300028: lights_brakes_glows_LOD3
+    2300030: Object001
+    2300032: Object002
+    2300034: Object003
+    2300036: WheelBL_rims_LOD2
+    2300038: WheelBR_rims_LOD2
+    2300040: WheelFL_rims_LOD2
+    2300042: WheelFR_rims_LOD2
+    2300044: Object004
+    3300000: chassis_bottom_LOD2
+    3300002: chassis_bottom_LOD2 1
+    3300004: chassis_carbon_fiber_LOD2
+    3300006: chassis_carpaint_LOD2
+    3300008: chassis_details_LOD2
+    3300010: chassis_licenseplate_LOD003
+    3300012: chassis_licenseplate_LOD2
+    3300014: detach_bumper_B_25_pivot_carpaint_LOD2
+    3300016: detach_door_L_25_pivot_carpaint_LOD2
+    3300018: detach_door_R_25_pivot_carpaint_LOD2
+    3300020: detach_hood_45_pivot_carpaint_LOD2
+    3300022: detach_hood_45_pivot_carpaint_LOD2 1
+    3300024: glasses_glass_border_LOD3
+    3300026: glasses_glass_windows_LOD3
+    3300028: lights_brakes_glows_LOD3
+    3300030: Object001
+    3300032: Object002
+    3300034: Object003
+    3300036: WheelBL_rims_LOD2
+    3300038: WheelBR_rims_LOD2
+    3300040: WheelFL_rims_LOD2
+    3300042: WheelFR_rims_LOD2
+    3300044: Object004
+    4300000: WheelBL_rims_LOD2
+    4300002: WheelBR_rims_LOD2
+    4300004: WheelFL_rims_LOD2
+    4300006: WheelFR_rims_LOD2
+    4300008: chassis_carpaint_LOD2
+    4300010: chassis_bottom_LOD2
+    4300012: detach_hood_45_pivot_carpaint_LOD2
+    4300014: glasses_glass_border_LOD3
+    4300016: glasses_glass_windows_LOD3
+    4300018: lights_brakes_glows_LOD3
+    4300020: chassis_carbon_fiber_LOD2
+    4300022: chassis_licenseplate_LOD2
+    4300024: chassis_details_LOD2
+    4300026: chassis_bottom_LOD2
+    4300028: chassis_licenseplate_LOD003
+    4300030: detach_bumper_B_25_pivot_carpaint_LOD2
+    4300032: detach_door_L_25_pivot_carpaint_LOD2
+    4300034: detach_door_R_25_pivot_carpaint_LOD2
+    4300036: detach_hood_45_pivot_carpaint_LOD2
+    4300038: Object001
+    4300040: Object002
+    4300042: Object003
+    4300044: Object004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

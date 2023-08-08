@@ -1,0 +1,60 @@
+{"frames": {
+
+"enter up.png":
+{
+	"frame": {"x":2,"y":2,"w":125,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":44},
+	"sourceSize": {"w":125,"h":44}
+},
+"enter.png":
+{
+	"frame": {"x":129,"y":2,"w":125,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":44},
+	"sourceSize": {"w":125,"h":44}
+},
+"no up.png":
+{
+	"frame": {"x":2,"y":48,"w":125,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":44},
+	"sourceSize": {"w":125,"h":44}
+},
+"no.png":
+{
+	"frame": {"x":129,"y":48,"w":125,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":44},
+	"sourceSize": {"w":125,"h":44}
+},
+"yes up.png":
+{
+	"frame": {"x":2,"y":94,"w":125,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":44},
+	"sourceSize": {"w":125,"h":44}
+},
+"yes.png":
+{
+	"frame": {"x":129,"y":94,"w":125,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":44},
+	"sourceSize": {"w":125,"h":44}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enter_button.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c6f35313da3d20e09617aef7922b7272:e3066612550ccf60b8b4d2537f01f174:f82ea827391274aef8eed5e8344fcc9d$"
+}
+}

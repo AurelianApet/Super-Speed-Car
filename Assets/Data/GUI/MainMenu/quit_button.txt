@@ -1,0 +1,28 @@
+{"frames": {
+
+"Layer-10-copy-31221_0002_ARE-YOU-SURE-TO-QUIT-THE-GAME-_.png":
+{
+	"frame": {"x":2,"y":2,"w":800,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":480},
+	"sourceSize": {"w":800,"h":480}
+},
+"Layer-10-copy-31221_0004_ARE-YOU-SURE-TO-QUIT-THE-GAME-_.png":
+{
+	"frame": {"x":2,"y":484,"w":800,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":480},
+	"sourceSize": {"w":800,"h":480}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "quit_button.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b36f271feae3848875548d89b82e38dd:263e63c7c9cd38f125c9a3d32b6f6fff:357f3136098b7dd4718d36abae61a7f4$"
+}
+}

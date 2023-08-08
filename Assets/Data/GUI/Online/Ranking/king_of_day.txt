@@ -1,0 +1,52 @@
+{"frames": {
+
+"Layer-10-copy-31221_0000_Layer-139-copy-4.png":
+{
+	"frame": {"x":2,"y":2,"w":67,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":67},
+	"sourceSize": {"w":67,"h":67}
+},
+"Layer-10-copy-31221_0000_Rectangle-4.png":
+{
+	"frame": {"x":71,"y":2,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"Layer-10-copy-31221_0001_BUY-NOW.png":
+{
+	"frame": {"x":105,"y":2,"w":184,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":53},
+	"sourceSize": {"w":184,"h":53}
+},
+"Layer-10-copy-31221_0001_Layer-139-copy-2.png":
+{
+	"frame": {"x":291,"y":2,"w":67,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":67},
+	"sourceSize": {"w":67,"h":67}
+},
+"Vector Smart Object.png":
+{
+	"frame": {"x":2,"y":71,"w":423,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":423,"h":98},
+	"sourceSize": {"w":423,"h":98}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "king_of_day.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:eb96daa5626643b7f0eef9393e8d4e76:4dfcb7518a9f372fdbbd4e3609090e7d:0316cb83dc88f72d0dc1c92ec1265d83$"
+}
+}

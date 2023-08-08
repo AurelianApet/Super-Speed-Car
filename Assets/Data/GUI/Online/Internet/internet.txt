@@ -1,0 +1,36 @@
+{"frames": {
+
+"Layer-10-copy-31221_0000_Ellipse-3.png":
+{
+	"frame": {"x":2,"y":2,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+"Layer-10-copy-31221_0001_Rectangle-14.png":
+{
+	"frame": {"x":39,"y":2,"w":417,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":417,"h":14},
+	"sourceSize": {"w":417,"h":14}
+},
+"Layer-10-copy-31221_0006_BET-NOW-!!!.png":
+{
+	"frame": {"x":2,"y":39,"w":800,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":480},
+	"sourceSize": {"w":800,"h":480}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "internet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9d5b3a1b5a0f770c8ab7a42e96634cb7:26c31d08d67b6ffbb871b3492ac2e1a9:62666051795ff9c128d210528acccd8d$"
+}
+}

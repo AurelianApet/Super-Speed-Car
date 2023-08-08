@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 68820d114fbe49542941057394a9d8dd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Banh1
+    100002: Banh2
+    100004: Banh3
+    100006: Banh4
+    100008: Body
+    100010: chassis_carpaint2_LOD3
+    100012: chassis_carpaint_LOD3
+    100014: detach_bumper_B_25_pivot_carpaint2_LOD3
+    100016: detach_bumper_F_25_pivot_carpaint2_LOD3
+    100018: detach_door_L_40_pivot_carpaint_LOD3
+    100020: detach_door_R_40_pivot_carpaint_LOD3
+    100022: //RootNode
+    100024: glasses_glass_chassis_LOD3
+    100026: glasses_glass_color_LOD3
+    100028: Object001
+    100030: Object002
+    400000: Banh1
+    400002: Banh2
+    400004: Banh3
+    400006: Banh4
+    400008: Body
+    400010: chassis_carpaint2_LOD3
+    400012: chassis_carpaint_LOD3
+    400014: detach_bumper_B_25_pivot_carpaint2_LOD3
+    400016: detach_bumper_F_25_pivot_carpaint2_LOD3
+    400018: detach_door_L_40_pivot_carpaint_LOD3
+    400020: detach_door_R_40_pivot_carpaint_LOD3
+    400022: //RootNode
+    400024: glasses_glass_chassis_LOD3
+    400026: glasses_glass_color_LOD3
+    400028: Object001
+    400030: Object002
+    2300000: Banh1
+    2300002: Banh2
+    2300004: Banh3
+    2300006: Banh4
+    2300008: chassis_carpaint2_LOD3
+    2300010: chassis_carpaint_LOD3
+    2300012: detach_bumper_B_25_pivot_carpaint2_LOD3
+    2300014: detach_bumper_F_25_pivot_carpaint2_LOD3
+    2300016: detach_door_L_40_pivot_carpaint_LOD3
+    2300018: detach_door_R_40_pivot_carpaint_LOD3
+    2300020: glasses_glass_chassis_LOD3
+    2300022: glasses_glass_color_LOD3
+    2300024: Object001
+    2300026: Object002
+    2300028: //RootNode
+    3300000: Banh1
+    3300002: Banh2
+    3300004: Banh3
+    3300006: Banh4
+    3300008: chassis_carpaint2_LOD3
+    3300010: chassis_carpaint_LOD3
+    3300012: detach_bumper_B_25_pivot_carpaint2_LOD3
+    3300014: detach_bumper_F_25_pivot_carpaint2_LOD3
+    3300016: detach_door_L_40_pivot_carpaint_LOD3
+    3300018: detach_door_R_40_pivot_carpaint_LOD3
+    3300020: glasses_glass_chassis_LOD3
+    3300022: glasses_glass_color_LOD3
+    3300024: Object001
+    3300026: Object002
+    3300028: //RootNode
+    4300000: Banh2
+    4300002: Banh3
+    4300004: Banh4
+    4300006: Banh1
+    4300008: chassis_carpaint_LOD3
+    4300010: chassis_carpaint2_LOD3
+    4300012: detach_bumper_B_25_pivot_carpaint2_LOD3
+    4300014: detach_bumper_F_25_pivot_carpaint2_LOD3
+    4300016: detach_door_L_40_pivot_carpaint_LOD3
+    4300018: detach_door_R_40_pivot_carpaint_LOD3
+    4300020: glasses_glass_chassis_LOD3
+    4300022: glasses_glass_color_LOD3
+    4300024: Object001
+    4300026: Object002
+    4300028: Body
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

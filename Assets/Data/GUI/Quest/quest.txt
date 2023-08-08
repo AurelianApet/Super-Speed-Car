@@ -1,0 +1,84 @@
+{"frames": {
+
+"Layer-10-copy-31221_0001_RECEIVE-copy.png":
+{
+	"frame": {"x":350,"y":2,"w":190,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":35},
+	"sourceSize": {"w":190,"h":35}
+},
+"Layer-10-copy-31221_0002_RECEIVE-copy-4.png":
+{
+	"frame": {"x":542,"y":2,"w":190,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":35},
+	"sourceSize": {"w":190,"h":35}
+},
+"Layer-10-copy-31221_0003_RECEIVE.png":
+{
+	"frame": {"x":734,"y":2,"w":190,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":35},
+	"sourceSize": {"w":190,"h":35}
+},
+"Layer-10-copy-31221_0004_Layer-1-copy-4.png":
+{
+	"frame": {"x":398,"y":44,"w":196,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":331},
+	"sourceSize": {"w":196,"h":331}
+},
+"Layer-10-copy-31221_0005_Layer-1-copy-3.png":
+{
+	"frame": {"x":200,"y":44,"w":196,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":331},
+	"sourceSize": {"w":196,"h":331}
+},
+"Layer-10-copy-31221_0006_Layer-6-copy-4.png":
+{
+	"frame": {"x":2,"y":2,"w":167,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":14},
+	"sourceSize": {"w":167,"h":14}
+},
+"Layer-10-copy-31221_0007_Layer-6-copy-12.png":
+{
+	"frame": {"x":2,"y":44,"w":196,"h":332},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":332},
+	"sourceSize": {"w":196,"h":332}
+},
+"Layer-10-copy-31221_0008_back.png":
+{
+	"frame": {"x":171,"y":2,"w":177,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":40},
+	"sourceSize": {"w":177,"h":40}
+},
+"Layer-10-copy-31221_0009_Layer-7.png":
+{
+	"frame": {"x":2,"y":378,"w":800,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":480},
+	"sourceSize": {"w":800,"h":480}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "quest.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ca6778836b0ac45d58949681fa781ec:1189aad2ae13cac799b3a7686cabbd0e:c38eaeb2d65c56e5be4058652a25ba8a$"
+}
+}

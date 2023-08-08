@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="bestracinggame.superspeedycarrace" android:installLocation="preferExternal" android:theme="@android:style/Theme.NoTitleBar" android:versionCode="1" android:versionName="1.0">
+  <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" android:anyDensity="true" />
+  <!-- android:debuggable should be removed in release build -->
+  <uses-sdk android:minSdkVersion="9" />
+  <application android:icon="@drawable/app_icon" android:label="@string/app_name" android:debuggable="true">
+    <activity android:name="com.unity3d.player.UnityPlayerProxyActivity" android:launchMode="singleTask" android:label="@string/app_name" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name="com.unity3d.player.UnityPlayerActivity" android:launchMode="singleTask" android:label="@string/app_name" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+    </activity>
+    <activity android:name="com.unity3d.player.UnityPlayerNativeActivity" android:launchMode="singleTask" android:label="@string/app_name" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+      <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true" />
+    </activity>
+    <!-- Denote the referenced Google Play services version -->
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <!-- Google Mobile Ads Activity -->
+    <activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+    <activity android:name="org.onepf.openiab.UnityProxyActivity" android:launchMode="singleTask" android:label="@string/app_name" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+    </activity>
+    <receiver android:name="com.shephertz.app42.android.pushservice.App42GCMReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+      <intent-filter>
+        <!-- Receives the actual messages. -->
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <!-- Receives the registration id. -->
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+        <!-- For customize with your app change below line 51 "com.shephertz.app42.unity.android.test".with your app package name-->
+        <category android:name="com.dev.game.kingracing2" />
+      </intent-filter>
+    </receiver>
+    <service android:name="com.shephertz.app42.android.pushservice.App42GCMService">
+      <!-- Defined Activity when Meesage is opened-->
+      <meta-data android:name="onMessageOpen" android:value="bestracinggame.superspeedycarrace.MainActivity" />
+    </service>
+  </application>
+  <!--Fortumo start-->
+  <receiver android:name="mp.MpSMSReceiver">
+    <intent-filter>
+      <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+    </intent-filter>
+  </receiver>
+  <service android:name="mp.MpService" />
+  <service android:name="mp.StatusUpdateService" />
+  <activity android:name="mp.MpActivity" android:configChanges="orientation|keyboardHidden|screenSize" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+  <!--Fortumo end-->
+  <!--all-->
+  <permission android:name="bestracinggame.superspeedycarrace.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+  <uses-permission android:name="bestracinggame.superspeedycarrace.permission.C2D_MESSAGE" />
+  <!-- This app has permission to register and receive data message. -->
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+</manifest>

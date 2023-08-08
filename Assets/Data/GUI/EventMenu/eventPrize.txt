@@ -1,0 +1,60 @@
+{"frames": {
+
+"Layer-10-copy-31221_0000_Finish-this-race..png":
+{
+	"frame": {"x":2,"y":2,"w":441,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":441,"h":178},
+	"sourceSize": {"w":441,"h":178}
+},
+"Layer-10-copy-31221_0001_race-now-copy.png":
+{
+	"frame": {"x":445,"y":2,"w":138,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":44},
+	"sourceSize": {"w":138,"h":44}
+},
+"Layer-10-copy-31221_0002_race-now.png":
+{
+	"frame": {"x":585,"y":2,"w":138,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":44},
+	"sourceSize": {"w":138,"h":44}
+},
+"Layer-10-copy-31221_0007_Layer-136.png":
+{
+	"frame": {"x":2,"y":182,"w":800,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":480},
+	"sourceSize": {"w":800,"h":480}
+},
+"down button.png":
+{
+	"frame": {"x":804,"y":182,"w":28,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":21},
+	"sourceSize": {"w":28,"h":21}
+},
+"up button.png":
+{
+	"frame": {"x":834,"y":182,"w":28,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":22},
+	"sourceSize": {"w":28,"h":22}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "eventPrize.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e57874b811914b807baded333a8ca035:e641babb3259d42c224953e69be6fbf3:98b27e08bcfe7c4e992855f781c70942$"
+}
+}
